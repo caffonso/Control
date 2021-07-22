@@ -1,1 +1,3 @@
 # Control
+
+### Tipos de entradas
